@@ -1,0 +1,30 @@
+
+body {
+font-family: 'Sigmar One', cursive;
+background: #fffadc;
+color: #92d3cf;
+}
+
+.text-muted }
+	color: #aacac9;
+}
+
+.title-super {
+	font-size: 55px;
+}
+
+.img-logo {
+	margin-top: 10px;
+	width: 20%;
+	height: 20%;
+	border-radius: 50%;
+}
+.img-small {
+	width: 20%;
+	height: 20%;
+}
+
+.primary {
+	background: #30A9D6;
+	color: #efede9;
+}
