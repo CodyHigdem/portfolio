@@ -1,9 +1,14 @@
 body {
-font-family: 'Sigmar One', cursive;
-background: #fffadc;
-color: #92d3cf;
+	font-family: 'Sigmar One', cursive;
+	background: #fffadc;
+	color: #92d3cf;
+	padding: 100px 0 0;
 }
 
+.navbar {
+	background: #fffadc;
+	color: #92d3cf;
+}
 .text-muted {
 	color: #aacac9;
 }
@@ -13,7 +18,7 @@ color: #92d3cf;
 }
 
 .img-logo {
-	margin-top: 10px;
+	margin: 10px 0 0;
 	width: 20%;
 	height: 20%;
 	border-radius: 50%;
@@ -24,6 +29,6 @@ color: #92d3cf;
 }
 
 .primary {
-	background: #30A9D6;
+	background: #30a9d6;
 	color: #efede9;
 }
